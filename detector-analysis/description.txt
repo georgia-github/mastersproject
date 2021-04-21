@@ -1,0 +1,1 @@
+This analyses the GW170817 off-source data within the Hanford H1 interferometer of aLIGO operating season O2
