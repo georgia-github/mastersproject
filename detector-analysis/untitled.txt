@@ -1,0 +1,6 @@
+make frequency cuts on the matchedfilter by cutting the template bank by cutting the tb.bank ? or frange? or an if statement before its calculated?
+
+make segment list from like 2 days worth before data
+sort list into ones with lengths longer than 128
+select those gps start times from a list and hopefully there's 30 we can do
+then condor q those 30 times over all frequencies, which will output data sets and 
