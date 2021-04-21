@@ -1,0 +1,12 @@
+universe = vanilla
+use_x509userproxy = true
+executable = /nfshome/store03/users/georgia.stevens/gwdata/glitchdata/testallinonecode/backgroundnoisefilter/backgroundglitchfilter.py
+arguments = " $(Process) "
+log = /nfshome/store03/users/georgia.stevens/gwdata/glitchdata/testallinonecode/backgroundnoisefilter/scripts/script$(Process).log
+output = /nfshome/store03/users/georgia.stevens/gwdata/glitchdata/testallinonecode/backgroundnoisefilter/scripts/output$(Process).txt
+error = /nfshome/store03/users/georgia.stevens/gwdata/glitchdata/testallinonecode/backgroundnoisefilter/scripts/script$(Process).err
+accounting_group_user = georgia.stevens
+accounting_group = aluk.dev.o2.burst.explore.test.
+getenv = True
+notification = Never
+queue 623

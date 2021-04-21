@@ -1,0 +1,12 @@
+/home/georgia.stevens/.conda/envs/ringdown/lib/python3.7/site-packages/pycbc/types/array.py:375: RuntimeWarning: divide by zero encountered in true_divide
+  return self._data.__rtruediv__(other)
+Traceback (most recent call last):
+  File "/nfshome/store03/users/georgia.stevens/gwdata/glitchdata/testallinonecode/backgroundnoisefilter/backgroundglitchfilter.py", line 188, in <module>
+    
+TypeError: can only concatenate str (not "int") to str
+/home/georgia.stevens/.conda/envs/ringdown/lib/python3.7/site-packages/pycbc/types/array.py:375: RuntimeWarning: divide by zero encountered in true_divide
+  return self._data.__rtruediv__(other)
+Traceback (most recent call last):
+  File "/nfshome/store03/users/georgia.stevens/gwdata/glitchdata/testallinonecode/backgroundnoisefilter/backgroundglitchfilter.py", line 188, in <module>
+    
+TypeError: can only concatenate str (not "int") to str
